@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Long shot",
+  "base_artist": "前島麻由",
+  "createdAt": "2026-03-11T00:57:46.381736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Long Shot",
+      "artist": "Transviolet",
+      "has_synced": true,
+      "path": "select/01_Long_Shot_Transviolet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Long Shot",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/02_Long_Shot_Aimee_Mann.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Long Shot",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/03_Long_Shot_Aimee_Mann.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Long Shot",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/04_Long_Shot_Aimee_Mann.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Long Shot",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/05_Long_Shot_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Long Shot (Album Version)",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/06_Long_Shot_(Album_Version)_Aimee_Mann.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Money Is on the Long Shot",
+      "artist": "Less Than Jake",
+      "has_synced": true,
+      "path": "select/07_My_Money_Is_on_the_Long_Shot_Less_Than_Jake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Long shot",
+      "artist": "前島麻由",
+      "has_synced": true,
+      "path": "select/08_Long_shot_前島麻由.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Off by a Long Shot",
+      "artist": "The Locust",
+      "has_synced": false,
+      "path": "select/09_Off_by_a_Long_Shot_The_Locust.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost Long Shot",
+      "artist": "The New Amsterdams",
+      "has_synced": false,
+      "path": "select/10_Lost_Long_Shot_The_New_Amsterdams.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Long Shot (From \"Re:Zero\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/11_Long_Shot_(From__Re_Zero_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Long Shot (From \"Re: Zero\")*",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/12_Long_Shot_(From__Re__Zero_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Long Shot Kick De Bucket",
+      "artist": "The Pioneers",
+      "has_synced": true,
+      "path": "select/13_Long_Shot_Kick_De_Bucket_The_Pioneers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Long shot",
+      "artist": "前島麻由",
+      "has_synced": false,
+      "path": "select/pl_01_Long_shot_前島麻由.txt"
+    }
+  ]
+}
